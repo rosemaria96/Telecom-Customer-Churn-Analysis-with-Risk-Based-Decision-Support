@@ -37,7 +37,3 @@ This project analyzes telecom customer behavior to identify churn patterns and i
 ## Output Files
 - Tele_Customer_Churn_Cleaned.csv : cleaned dataset
 - churn_decision_rules.csv : exported rules
-
-## Author
-- [Your Name]
-
